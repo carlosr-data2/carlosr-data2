@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Terraform, AWS Solutions Architect Associate, Airbyte and DBT**
 
-- 💬 Ask me about **SQL and Python for Data Engineering**
+- 💬 Ask me about **AWS Glue, AWS Lambda, AWS Redshift, AWS S3, Data Lake, Data Lakehouse, SQL and Python for Data Engineering**
 
 - 📫 How to reach me **carlosr.github@gmail.com**
 
